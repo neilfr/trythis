@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/trythis/static/css/main.8485ba6c.css",
-    "main.js": "/trythis/static/js/main.61c28a4d.js",
-    "static/media/snapcycle_home.png": "/trythis/static/media/snapcycle_home.3ce0df948eb13797a234.png",
-    "static/media/codewarriors_home.jpg": "/trythis/static/media/codewarriors_home.3ff8d980cdd373ba8d8d.jpg",
-    "static/media/portfolio_skills.png": "/trythis/static/media/portfolio_skills.f82a3762ed423b22cb2d.png",
-    "index.html": "/trythis/index.html",
-    "main.8485ba6c.css.map": "/trythis/static/css/main.8485ba6c.css.map",
-    "main.61c28a4d.js.map": "/trythis/static/js/main.61c28a4d.js.map"
+    "main.css": "/Trythis/static/css/main.8485ba6c.css",
+    "main.js": "/Trythis/static/js/main.6ac66b65.js",
+    "static/media/snapcycle_home.png": "/Trythis/static/media/snapcycle_home.3ce0df948eb13797a234.png",
+    "static/media/codewarriors_home.jpg": "/Trythis/static/media/codewarriors_home.3ff8d980cdd373ba8d8d.jpg",
+    "static/media/portfolio_skills.png": "/Trythis/static/media/portfolio_skills.f82a3762ed423b22cb2d.png",
+    "index.html": "/Trythis/index.html",
+    "main.8485ba6c.css.map": "/Trythis/static/css/main.8485ba6c.css.map",
+    "main.6ac66b65.js.map": "/Trythis/static/js/main.6ac66b65.js.map"
   },
   "entrypoints": [
     "static/css/main.8485ba6c.css",
-    "static/js/main.61c28a4d.js"
+    "static/js/main.6ac66b65.js"
   ]
 }
